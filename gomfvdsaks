@@ -1,0 +1,11 @@
+<form action="site" method="post">
+            <label for="login-field">user</label>
+            <input type="login" name="login" id="login-field">
+
+            <подпись>
+            <label for="password-field">пароль</label>
+            <поле>
+            <input type="text" name="password" id="password-field">
+        </form>
+    </body>
+</html>
